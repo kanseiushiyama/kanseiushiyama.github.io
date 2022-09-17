@@ -9,7 +9,7 @@ title: English
 # Kansei Ushiyama
 
 Master's student,<br>
-[Mathematical informatics 3rd Laboratory](http://www.sr3.t.u-tokyo.ac.jp/),<br>
+[Mathematical Informatics 3rd Laboratory](http://www.sr3.t.u-tokyo.ac.jp/),<br>
 Department of Mathemathical Informatics,<br>
 Graduate School of Information Science and Technology,<br>
 The University of Tokyo<br>
