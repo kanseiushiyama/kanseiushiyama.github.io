@@ -9,7 +9,7 @@ title: 日本語
 # 牛山寛生
 
 東京大学大学院情報理工学系研究科<br>
-数理情報学専攻　修士課程2年,<br>
+数理情報学専攻　修士課程2年<br>
 Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 # 研究分野
@@ -23,7 +23,7 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
    [[arXiv](https://doi.org/10.48550/arXiv.2206.02599)][[journal](https://doi.org/10.14495/jsiaml.14.119)]<br>
    K. Ushiyama, S. Sato, T. Matsuo, JSIAM Letters, **14**(2022), 119--122.
 
-1. Deriving efficient optimization methods based on stable explicit numerical methods<br>
+1. **Deriving efficient optimization methods based on stable explicit numerical methods**<br>
    [[journal](https://doi.org/10.14495/jsiaml.14.29)]<br>
    K. Ushiyama, S. Sato, T. Matsuo, JSIAM Letters, **14**(2022), 29--32.
 
