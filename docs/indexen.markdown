@@ -9,8 +9,10 @@ title: English
 # Kansei Ushiyama
 
 Master's student,<br>
-Department of Mathemathical Informatics,
-Graduate School of Tokyo<br>
+[Mathematical informatics 3rd Laboratory](http://www.sr3.t.u-tokyo.ac.jp/),<br>
+Department of Mathemathical Informatics,<br>
+Graduate School of Information Science and Technology,<br>
+The University of Tokyo<br>
 Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 # Reserch Interests
