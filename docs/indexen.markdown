@@ -4,7 +4,7 @@
 
 layout: default
 lang: en
-title: Kansei Ushiyama
+title: Home
 #home
 ---
 # Kansei Ushiyama
