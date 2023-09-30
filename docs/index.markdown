@@ -4,7 +4,7 @@
 
 layout: default
 lang: jp
-#home
+title: Home
 ---
 # 牛山寛生
 
@@ -17,13 +17,11 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 - 数値解析
 - 連続最適化
 
-# プレプリント
+# 査読付き論文誌・会議録
 
-1. **A new unified framework for designing convex optimization methods with prescribed theoretical convergence estimates: A numerical analysis approach**<br>
+1.** A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**
    [[arXiv](https://doi.org/10.48550/arXiv.2302.07404)]<br>
-   K. Ushiyama, S. Sato, T. Matsuo, preprint.
-
-# 査読付き論文誌
+   K. Ushiyama, S. Sato, T. Matsuo, to appear in NeurIPS 2023.
 
 1. **Essential convergence rate of ordinary differential equations appearing in optimization**<br>
    [[arXiv](https://doi.org/10.48550/arXiv.2206.02599)][[journal](https://doi.org/10.14495/jsiaml.14.119)]<br>
@@ -34,6 +32,9 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
    K. Ushiyama, S. Sato, T. Matsuo, JSIAM Letters, **14**(2022), 29--32.
 
 # 講演
+
+1. **最適化のためのRunge--Kutta--Chebyshev法における曲線探索法
+   <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 数値解析シンポジウム 2023, 岩手, July 12--14, 2023.
 
 1. **最適化手法由来のヘッセ行列を伴う連続力学系モデルに対する数値解析学的アプローチ**<br>
    <u>上島 智哉</u>, 佐藤 峻, 牛山 寛生, 松尾 宇泰, 田中 健一郎, 日本応用数理学会2023年研究部会連合発表会, 岡山, March 8--10, 2023.
@@ -54,6 +55,9 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
    <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 日本応用数理学会 2021年度 年会, オンライン, September 7--9, 2021.
 
 # 受賞
+**2023年7月**
+	日本応用数理学会 2023年度 JSIAM Letters 論文賞
+
 **2023年3月**<br>
 	東京大学大学院情報理工学系研究科長賞
 
