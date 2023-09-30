@@ -19,7 +19,7 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 # 査読付き論文誌・会議録
 
-1.** A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**
+1. ** A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**<br>
    [[arXiv](https://doi.org/10.48550/arXiv.2302.07404)]<br>
    K. Ushiyama, S. Sato, T. Matsuo, to appear in NeurIPS 2023.
 
@@ -33,7 +33,7 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 # 講演
 
-1. **最適化のためのRunge--Kutta--Chebyshev法における曲線探索法
+1. **最適化のためのRunge--Kutta--Chebyshev法における曲線探索法**<br>
    <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 数値解析シンポジウム 2023, 岩手, July 12--14, 2023.
 
 1. **最適化手法由来のヘッセ行列を伴う連続力学系モデルに対する数値解析学的アプローチ**<br>
@@ -55,7 +55,7 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
    <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 日本応用数理学会 2021年度 年会, オンライン, September 7--9, 2021.
 
 # 受賞
-**2023年7月**
+**2023年7月**<br>
 	日本応用数理学会 2023年度 JSIAM Letters 論文賞
 
 **2023年3月**<br>
