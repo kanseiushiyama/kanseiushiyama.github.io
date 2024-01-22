@@ -20,7 +20,7 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 # 査読付き論文誌・会議録
 
 1. **A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**<br>
-   [[arXiv](https://doi.org/10.48550/arXiv.2302.07404)]<br>
+   [[arXiv](https://doi.org/10.48550/arXiv.2302.07404)][[proceeding](https://openreview.net/forum?id=8YN62t19AW)]<br>
    K. Ushiyama, S. Sato, T. Matsuo, to appear in NeurIPS 2023.
 
 1. **Essential convergence rate of ordinary differential equations appearing in optimization**<br>
@@ -32,6 +32,9 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
    K. Ushiyama, S. Sato, T. Matsuo, JSIAM Letters, **14**(2022), 29--32.
 
 # 講演
+
+1. **A Unified Discretization Framework for Differential Equation Approach with Lyapunov Arguments for Convex Optimization** (poster)<br>
+   <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 第26回情報論的学習理論ワークショップ, 福岡, October 29--November 1, 2023.
 
 1. **最適化のためのRunge--Kutta--Chebyshev法における曲線探索法**<br>
    <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 数値解析シンポジウム 2023, 岩手, July 12--14, 2023.
@@ -55,6 +58,9 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
    <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 日本応用数理学会 2021年度 年会, オンライン, September 7--9, 2021.
 
 # 受賞
+**2023年12月**<br>
+	第26回情報論的学習理論ワークショップ 学生優秀プレゼンテーション賞
+
 **2023年7月**<br>
 	日本応用数理学会 2023年度 JSIAM Letters 論文賞
 
