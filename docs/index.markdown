@@ -21,7 +21,7 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 1. **A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**<br>
    [[arXiv](https://doi.org/10.48550/arXiv.2302.07404)][[proceeding](https://openreview.net/forum?id=8YN62t19AW)]<br>
-   K. Ushiyama, S. Sato, T. Matsuo, to appear in NeurIPS 2023.
+   K. Ushiyama, S. Sato, T. Matsuo, NeurIPS 2023.
 
 1. **Essential convergence rate of ordinary differential equations appearing in optimization**<br>
    [[arXiv](https://doi.org/10.48550/arXiv.2206.02599)][[journal](https://doi.org/10.14495/jsiaml.14.119)]<br>
