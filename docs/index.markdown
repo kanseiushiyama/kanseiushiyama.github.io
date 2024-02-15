@@ -17,6 +17,12 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 - 数値解析
 - 連続最適化
 
+# プレプリント
+
+1. **Deriving Optimal Rates of Continuous-time Accelerated First-order Methods via Performance Estimation Problems**<br>
+   [[METR](https://www.keisu.t.u-tokyo.ac.jp/data/2024/METR24-02.pdf)]<br>
+   K. Ushiyama, S. Sato, T. Matsuo, preprint.
+
 # 査読付き論文誌・会議録
 
 1. **A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**<br>

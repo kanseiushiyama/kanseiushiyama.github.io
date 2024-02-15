@@ -21,6 +21,11 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 - Numerical Analysis
 - Continuous Optimization
 
+# Preprints
+
+1. **Deriving Optimal Rates of Continuous-time Accelerated First-order Methods via Performance Estimation Problems**<br>
+   [[METR](https://www.keisu.t.u-tokyo.ac.jp/data/2024/METR24-02.pdf)]<br>
+   K. Ushiyama, S. Sato, T. Matsuo, preprint.
 
 # Refereed Journal Articles and Conference Proceedings
 
