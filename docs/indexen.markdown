@@ -30,7 +30,7 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 # Refereed Journal Articles and Conference Proceedings
 
 1. **Properties and practicability of convergence-guaranteed optimization methods derived from weak discrete gradients**<br>
-   [[journal](https://doi.org/10.1007/s11075-024-01790-3)]
+   [[journal](https://doi.org/10.1007/s11075-024-01790-3)]<br>
    K. Ushiyama, S. Sato, T. Matsuo, Numer. Algorithms, ANODE 2023 -- In honour of John Butcher’s 90th birthday (2024).
 
 1. **A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**<br>

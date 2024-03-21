@@ -26,7 +26,7 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 # 査読付き論文誌・会議録
 
 1. **Properties and practicability of convergence-guaranteed optimization methods derived from weak discrete gradients**<br>
-   [[journal](https://doi.org/10.1007/s11075-024-01790-3)]
+   [[journal](https://doi.org/10.1007/s11075-024-01790-3)]<br>
    K. Ushiyama, S. Sato, T. Matsuo, Numer. Algorithms, ANODE 2023 -- In honour of John Butcher’s 90th birthday (2024).
 
 1. **A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**<br>
@@ -44,7 +44,7 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 # 講演
 
 1. **最適化手法の連続時間モデルに対する新しい収束率解析法**<br>
-   <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 日本応用数理学会　第20回研究部会連合発表会, 新潟, March 4–-6, 2024．
+   <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 日本応用数理学会 第20回研究部会連合発表会, 新潟, March 4–-6, 2024．
 
 1. **A Unified Discretization Framework for Differential Equation Approach with Lyapunov Arguments for Convex Optimization** (poster)<br>
    <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 第26回情報論的学習理論ワークショップ, 福岡, October 29--November 1, 2023.
@@ -53,7 +53,7 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
    <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 数値解析シンポジウム 2023, 岩手, July 12--14, 2023.
 
 1. **最適化手法由来のヘッセ行列を伴う連続力学系モデルに対する数値解析学的アプローチ**<br>
-   <u>上島 智哉</u>, 佐藤 峻, 牛山 寛生, 松尾 宇泰, 田中 健一郎, 日本応用数理学会2023年研究部会連合発表会, 岡山, March 8--10, 2023.
+   <u>上島 智哉</u>, 佐藤 峻, 牛山 寛生, 松尾 宇泰, 田中 健一郎, 日本応用数理学会 第19回研究部会連合発表会, 岡山, March 8--10, 2023.
 
 1. **Extending discrete gradients for unified description and analysis of optimization methods**<br>
    <u>K. Ushiyama</u>, S. Sato, T. Matsuo, ANODE 2023, Auckland (New Zealand), February 20--24, 2023.
@@ -85,8 +85,8 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 # フェローシップ
 
-**2024年4月〜2026年3月**<br>
+**2024年4月--2026年3月**<br>
    日本学術振興会特別研究員 DC2
 
-**2023年4月〜2026年3月**<br>
+**2023年4月--2026年3月**<br>
    JST次世代研究者挑戦的研究プログラム（SPRING） 東京大学「グリーントランスフォーメーション（ＧＸ）を先導する高度人材育成（SPRING GX）」プロジェクト生
