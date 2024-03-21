@@ -25,6 +25,10 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 # 査読付き論文誌・会議録
 
+1. **Properties and practicability of convergence-guaranteed optimization methods derived from weak discrete gradients**<br>
+   [[journal](https://doi.org/10.1007/s11075-024-01790-3)]
+   K. Ushiyama, S. Sato, T. Matsuo, Numer. Algorithms, ANODE 2023 -- In honour of John Butcher’s 90th birthday (2024).
+
 1. **A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**<br>
    [[arXiv](https://doi.org/10.48550/arXiv.2302.07404)][[proceeding](https://openreview.net/forum?id=8YN62t19AW)]<br>
    K. Ushiyama, S. Sato, T. Matsuo, NeurIPS 2023.
@@ -38,6 +42,9 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
    K. Ushiyama, S. Sato, T. Matsuo, JSIAM Letters, **14**(2022), 29--32.
 
 # 講演
+
+1. **最適化手法の連続時間モデルに対する新しい収束率解析法**<br>
+   <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 日本応用数理学会　第20回研究部会連合発表会, 新潟, March 4–-6, 2024．
 
 1. **A Unified Discretization Framework for Differential Equation Approach with Lyapunov Arguments for Convex Optimization** (poster)<br>
    <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 第26回情報論的学習理論ワークショップ, 福岡, October 29--November 1, 2023.
@@ -75,3 +82,11 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 **2022年6月**<br>
 	日本応用数理学会 第18回 若手優秀講演賞
+
+# フェローシップ
+
+**2024年4月〜2026年3月**<br>
+   日本学術振興会特別研究員 DC2
+
+**2023年4月〜2026年3月**<br>
+   JST次世代研究者挑戦的研究プログラム（SPRING） 東京大学「グリーントランスフォーメーション（ＧＸ）を先導する高度人材育成（SPRING GX）」プロジェクト生
