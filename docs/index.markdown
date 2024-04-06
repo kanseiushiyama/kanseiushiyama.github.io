@@ -43,7 +43,7 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 # 講演
 
-1. **Convergence of optimisation methods and stability of numerical methods**
+1. **Convergence of optimisation methods and stability of numerical methods**<br>
    <u>Kansei Ushiyama</u>, Toshiki Saegusa, Shun Sato, Takayasu Matsuo, Auckland Numerical Analysis WoRKshop,
    Auckland (New Zealand), March 25--29, 2024.
 
