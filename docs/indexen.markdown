@@ -47,6 +47,10 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 # Talks
 
+1. **Convergence of optimisation methods and stability of numerical methods**
+   <u>Kansei Ushiyama</u>, Toshiki Saegusa, Shun Sato, Takayasu Matsuo, Auckland Numerical Analysis WoRKshop,
+   Auckland (New Zealand), March 25--29, 2024.
+
 1. **Extending discrete gradients for unified description and analysis of optimization methods**<br>
    <u>K. Ushiyama</u>, S. Sato, T. Matsuo, ANODE 2023, Auckland (New Zealand), February 20--24, 2023.
 

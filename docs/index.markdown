@@ -9,7 +9,7 @@ title: Home
 # 牛山寛生
 
 東京大学大学院情報理工学系研究科<br>
-数理情報学専攻 [第3研究室](http://www.sr3.t.u-tokyo.ac.jp/ja/) 博士課程1年<br>
+数理情報学専攻 [第3研究室](http://www.sr3.t.u-tokyo.ac.jp/ja/) 博士課程2年<br>
 Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 # 研究分野
@@ -42,6 +42,10 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
    K. Ushiyama, S. Sato, T. Matsuo, JSIAM Letters, **14**(2022), 29--32.
 
 # 講演
+
+1. **Convergence of optimisation methods and stability of numerical methods**
+   <u>Kansei Ushiyama</u>, Toshiki Saegusa, Shun Sato, Takayasu Matsuo, Auckland Numerical Analysis WoRKshop,
+   Auckland (New Zealand), March 25--29, 2024.
 
 1. **最適化手法の連続時間モデルに対する新しい収束率解析法**<br>
    <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 日本応用数理学会 第20回研究部会連合発表会, 新潟, March 4–-6, 2024．
