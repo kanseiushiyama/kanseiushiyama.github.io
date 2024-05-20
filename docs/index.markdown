@@ -17,6 +17,14 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 - 数値解析
 - 連続最適化
 
+# 学歴
+##### 2023年3月
+東京大学大学院情報理工学系研究科 数理情報学専攻 修了<br>
+（指導教員：松尾 宇泰 教授）<br>
+修士論文：Exploiting Numerical Analytical Concepts for Continuous Optimization:
+Numerical Stability and Discrete Chain Rule<br>
+　　　　　（連続最適化のための数値解析学諸概念の活用：数値的安定性と離散連鎖律）
+
 # プレプリント
 
 1. **Deriving Optimal Rates of Continuous-time Accelerated First-order Methods via Performance Estimation Problems**<br>
@@ -82,16 +90,16 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 # 受賞
 **2023年12月**<br>
-	第26回情報論的学習理論ワークショップ 学生優秀プレゼンテーション賞
+    第26回情報論的学習理論ワークショップ 学生優秀プレゼンテーション賞
 
 **2023年7月**<br>
-	日本応用数理学会 2023年度 JSIAM Letters 論文賞
+    日本応用数理学会 2023年度 JSIAM Letters 論文賞
 
 **2023年3月**<br>
-	東京大学大学院情報理工学系研究科長賞
+    東京大学大学院情報理工学系研究科長賞
 
 **2022年6月**<br>
-	日本応用数理学会 第18回 若手優秀講演賞
+    日本応用数理学会 第18回 若手優秀講演賞
 
 # フェローシップ
 
