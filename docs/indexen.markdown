@@ -90,8 +90,8 @@ Nagano prefectural Nagano senior high school.
         Best Presentation Award, Japan Society for Industrial and Applied Mathematics
 
 # Fellowships
-**April 2024 -- March 2026**<br>
+**Apr. 2024 -- Mar. 2026**<br>
    JSPS Research Fellowship for Young Scientists, DC2
 
-**April 2023 -- March 2026**<br>
+**Apr. 2023 -- Mar. 2026**<br>
    JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program, The University of Tokyo "Advanced Human Resource Development Leading Green Transformation (GX) (SPRING GX)" Project student
