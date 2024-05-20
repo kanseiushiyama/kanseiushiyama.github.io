@@ -25,9 +25,15 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 # 査読付き論文誌・会議録
 
+1. **Differentiable Pareto-Smoothed Weighting for High-Dimensional Heterogeneous Treatment Effect Estimation**<br>
+   Y. Chikahara, K. Ushiyama, to appear in Proceedings of the Fortieth Conference on Uncertainty in Artificial Intelligence.
+
+1. **Analysis of continuous dynamical system models with Hessians derived from optimization methods**<br>
+   T. Kamijima, S. Sato, K. Ushiyama, T. Matsuo, K. Tanaka, to appear in JSIAM Letters.
+
 1. **Properties and practicability of convergence-guaranteed optimization methods derived from weak discrete gradients**<br>
    [[journal](https://doi.org/10.1007/s11075-024-01790-3)]<br>
-   K. Ushiyama, S. Sato, T. Matsuo, Numer. Algorithms, ANODE 2023 -- In honour of John Butcher’s 90th birthday (2024).
+   K. Ushiyama, S. Sato, T. Matsuo, to appear in Numer. Algorithms.
 
 1. **A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**<br>
    [[arXiv](https://doi.org/10.48550/arXiv.2302.07404)][[proceeding](https://openreview.net/forum?id=8YN62t19AW)]<br>
