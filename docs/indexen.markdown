@@ -23,17 +23,17 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 # Education
 
-### Mar. 2023
+**Mar. 2023**<br>
 Master of Information Science and Technology, The University of Tokyo<br>
 (Supervisor: Prof. Takayasu Matsuo)<br>
 Thesis: Exploiting Numerical Analytical Concepts for Continuous Optimization: Numerical Stability and Discrete Chain Rule
 
-### Mar. 2021 
-Bachelor of Engineering, The University of Tokyo
+**Mar. 2021**<br>
+Bachelor of Engineering, The University of Tokyo<br>
 (Supervisor: Prof. Yuki Izumida)<br>
 Thesis: A Study on the Mechanism of Synchronization Promotion by Uncorrelated Noise in Coupled Oscillator Systems (in Japanese)
 
-### Mar.2017
+**Mar. 2017**<br>
 Nagano prefectural Nagano senior high school.
 
 # Preprints
