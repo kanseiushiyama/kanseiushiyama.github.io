@@ -18,12 +18,20 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 - 連続最適化
 
 # 学歴
-##### 2023年3月
+### 2023年3月
 東京大学大学院情報理工学系研究科 数理情報学専攻 修了<br>
 （指導教員：松尾 宇泰 教授）<br>
 修士論文：Exploiting Numerical Analytical Concepts for Continuous Optimization:
 Numerical Stability and Discrete Chain Rule<br>
 　　　　　（連続最適化のための数値解析学諸概念の活用：数値的安定性と離散連鎖律）
+
+### 2021年3月
+東京大学 工学部 計数工学科 卒業<br>
+（指導教員：泉田 勇輝 講師）<br>
+卒業論文：結合振動子系における無相関ノイズによる同期促進のメカニズムの研究
+
+### 2017年3月
+長野県長野高等学校 卒業
 
 # プレプリント
 
