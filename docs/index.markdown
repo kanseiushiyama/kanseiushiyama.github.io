@@ -64,6 +64,13 @@ Numerical Stability and Discrete Chain Rule（連続最適化のための数値�
 
 # 講演
 
+1. **最適化手法の連続時間モデルに関する本質的な収束率の精緻化**<br>
+   <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 日本応用数理学会 2024年度 年会, 京都, September 14--16, 2024.
+
+1. **非平滑強凸関数最小化問題に対する現状最速の加速近接勾配法**<br>
+   <u>牛山 寛生</u>, 日本オペレーションズ・リサーチ学会 2024年秋季研究発表会, 愛知, September 9--11, 2024.<br>
+   [予稿中アルゴリズムの修正版](https://kanseiushiyama.github.io/docs/assets/OR2024a.pdf)
+
 1. **Convergence of optimisation methods and stability of numerical methods**<br>
    <u>K. Ushiyama</u>, T. Saegusa, S. Sato, T. Matsuo, Auckland Numerical Analysis WoRKshop,
    Auckland (New Zealand), March 25--29, 2024.
