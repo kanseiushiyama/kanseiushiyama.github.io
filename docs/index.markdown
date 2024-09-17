@@ -69,7 +69,7 @@ Numerical Stability and Discrete Chain Rule（連続最適化のための数値�
 
 1. **非平滑強凸関数最小化問題に対する現状最速の加速近接勾配法**<br>
    <u>牛山 寛生</u>, 日本オペレーションズ・リサーチ学会 2024年秋季研究発表会, 愛知, September 9--11, 2024.<br>
-   [予稿中アルゴリズムの修正版](https://kanseiushiyama.github.io/docs/assets/OR2024a.pdf)
+   [予稿中アルゴリズムの修正版](https://kanseiushiyama.github.io/assets/OR2024a.pdf)
 
 1. **Convergence of optimisation methods and stability of numerical methods**<br>
    <u>K. Ushiyama</u>, T. Saegusa, S. Sato, T. Matsuo, Auckland Numerical Analysis WoRKshop,
