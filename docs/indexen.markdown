@@ -78,7 +78,7 @@ Nagano prefectural Nagano senior high school.
 # Awards
 
 **Oct. 2024**<br>
-   Student Excellent Presentation Award, The 26th Information-based Induction Sciences Workshop, The 2024 Fall National Conference of Operations Research Society of Japan
+   Student Excellent Presentation Award, The 2024 Fall National Conference of Operations Research Society of Japan
 
 **Dec. 2023**<br>
    Student Excellent Presentation Award, The 26th Information-based Induction Sciences Workshop
