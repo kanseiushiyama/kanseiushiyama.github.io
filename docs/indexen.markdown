@@ -49,6 +49,7 @@ Nagano prefectural Nagano senior high school.
    Y. Chikahara, K. Ushiyama, UAI 2024.
 
 1. **Analysis of continuous dynamical system models with Hessians derived from optimization methods**<br>
+   [[journal](https://doi.org/10.14495/jsiaml.16.29)]
    T. Kamijima, S. Sato, K. Ushiyama, T. Matsuo, K. Tanaka, to appear in JSIAM Letters.
 
 1. **Properties and practicability of convergence-guaranteed optimization methods derived from weak discrete gradients**<br>
