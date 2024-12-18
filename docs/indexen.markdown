@@ -45,16 +45,16 @@ Nagano prefectural Nagano senior high school.
 # Refereed Journal Articles and Conference Proceedings
 
 1. **Differentiable Pareto-Smoothed Weighting for High-Dimensional Heterogeneous Treatment Effect Estimation**<br>
-   [[proceeding](https://openreview.net/forum?id=o85WSGg0oB)]
+   [[proceeding](https://openreview.net/forum?id=o85WSGg0oB)]<br>
    Y. Chikahara, K. Ushiyama, UAI 2024.
 
 1. **Analysis of continuous dynamical system models with Hessians derived from optimization methods**<br>
-   [[journal](https://doi.org/10.14495/jsiaml.16.29)]
-   T. Kamijima, S. Sato, K. Ushiyama, T. Matsuo, K. Tanaka, to appear in JSIAM Letters.
+   [[journal](https://doi.org/10.14495/jsiaml.16.29)]<br>
+   T. Kamijima, S. Sato, K. Ushiyama, T. Matsuo, K. Tanaka, JSIAM Letters, **16**(2024), 29--32.
 
 1. **Properties and practicability of convergence-guaranteed optimization methods derived from weak discrete gradients**<br>
-   [[journal](https://doi.org/10.14495/jsiaml.16.29)]
-   T. Kamijima, S. Sato, K. Ushiyama, T. Matsuo, K. Tanaka, **16**(2024), 29--32.
+   [[journal](https://doi.org/10.1007/s11075-024-01790-3)]<br>
+   K. Ushiyama, S. Sato, T. Matsuo, Numer. Algorithms, **96**(2024), 1331-–1362.
 
 1. **A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**<br>
    [[arXiv](https://doi.org/10.48550/arXiv.2302.07404)][[proceeding](https://openreview.net/forum?id=8YN62t19AW)]<br>
