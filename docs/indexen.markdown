@@ -45,14 +45,15 @@ Nagano prefectural Nagano senior high school.
 # Refereed Journal Articles and Conference Proceedings
 
 1. **Differentiable Pareto-Smoothed Weighting for High-Dimensional Heterogeneous Treatment Effect Estimation**<br>
-   Y. Chikahara, K. Ushiyama, to appear in Proceedings of the Fortieth Conference on Uncertainty in Artificial Intelligence.
+   [[proceeding](https://openreview.net/forum?id=o85WSGg0oB)]
+   Y. Chikahara, K. Ushiyama, UAI 2024.
 
 1. **Analysis of continuous dynamical system models with Hessians derived from optimization methods**<br>
    T. Kamijima, S. Sato, K. Ushiyama, T. Matsuo, K. Tanaka, to appear in JSIAM Letters.
 
 1. **Properties and practicability of convergence-guaranteed optimization methods derived from weak discrete gradients**<br>
-   [[journal](https://doi.org/10.1007/s11075-024-01790-3)]<br>
-   K. Ushiyama, S. Sato, T. Matsuo, to appear in Numer. Algorithms.
+   [[journal](https://doi.org/10.14495/jsiaml.16.29)]
+   T. Kamijima, S. Sato, K. Ushiyama, T. Matsuo, K. Tanaka, **16**(2024), 29--32.
 
 1. **A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**<br>
    [[arXiv](https://doi.org/10.48550/arXiv.2302.07404)][[proceeding](https://openreview.net/forum?id=8YN62t19AW)]<br>
