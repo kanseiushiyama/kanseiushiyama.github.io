@@ -70,6 +70,10 @@ Nagano prefectural Nagano senior high school.
 
 # Talks
 
+1. **Performance estimation problems for convergence rate analysis of continuous-time models for optimization algorithms**<br>
+   <u>K. Ushiyama</u>, S. Sato, T. Matsuo, Synergies of Machine Learning and Numerics,
+   Osaka (Japan), March 11--13, 2025.
+
 1. **Convergence of optimisation methods and stability of numerical methods**<br>
    <u>K. Ushiyama</u>, T. Saegusa, S. Sato, T. Matsuo, Auckland Numerical Analysis WoRKshop,
    Auckland (New Zealand), March 25--29, 2024.
