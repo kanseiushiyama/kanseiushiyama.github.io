@@ -6,6 +6,8 @@ layout: default
 lang: jp
 title: Home
 ---
+### [English](https://kanseiushiyama.github.io/indexen.html)
+
 # 牛山寛生
 
 東京大学大学院情報理工学系研究科<br>
