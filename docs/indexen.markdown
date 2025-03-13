@@ -68,7 +68,7 @@ Nagano prefectural Nagano senior high school.
    [[journal](https://doi.org/10.14495/jsiaml.14.29)]<br>
    K. Ushiyama, S. Sato, T. Matsuo, JSIAM Letters, **14**(2022), 29--32.
 
-# Talks
+# Talks (International)
 
 1. **Performance estimation problems for convergence rate analysis of continuous-time models for optimization algorithms**<br>
    <u>K. Ushiyama</u>, S. Sato, T. Matsuo, Synergies of Machine Learning and Numerics,
