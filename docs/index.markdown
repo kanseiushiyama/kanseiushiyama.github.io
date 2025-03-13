@@ -6,7 +6,7 @@ layout: default
 lang: jp
 title: Home
 ---
-### [[English]](https://kanseiushiyama.github.io/indexen.html)
+### \[[English]\](https://kanseiushiyama.github.io/indexen.html)
 
 # 牛山寛生
 
