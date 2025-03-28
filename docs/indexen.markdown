@@ -83,6 +83,9 @@ Nagano prefectural Nagano senior high school.
 
 # Awards
 
+**Mar. 2025**<br>
+   Student Excellent Presentation Award, The 2025 Spring National Conference of Operations Research Society of Japan
+
 **Oct. 2024**<br>
    Student Excellent Presentation Award, The 2024 Fall National Conference of Operations Research Society of Japan
 
