@@ -68,10 +68,12 @@ Numerical Stability and Discrete Chain Rule（連続最適化のための数値�
 
 # 講演
 
+1. **Adaptive first-order method for nonconvex optimization derived from vanishing damping continuous-time dynamics**<br>
+<u>K. Ushiyama</u>, S. Sato, International Conference on Continuous Optimization, Los Angels (USA), July 20--24, 2025
+
 1. **Performance estimation problems for convergence rate analysis of continuous-time models for optimization algorithms**<br>
    <u>K. Ushiyama</u>, S. Sato, T. Matsuo, Synergies of Machine Learning and Numerics,
    Osaka (Japan), March 11--13, 2025.
-
 
 1. **非凸最適化の連続時間アルゴリズムと速度制御による離散化**<br>
    <u>牛山 寛生</u>, 佐藤 峻, 日本オペレーションズ・リサーチ学会 2025年春季研究発表会, 東京, March 5--7, 2025.

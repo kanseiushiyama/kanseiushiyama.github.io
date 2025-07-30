@@ -70,6 +70,9 @@ Nagano prefectural Nagano senior high school.
 
 # Talks (International)
 
+1. **Adaptive first-order method for nonconvex optimization derived from vanishing damping continuous-time dynamics**<br>
+   <u>K. Ushiyama</u>, S. Sato, International Conference on Continuous Optimization, Los Angels (USA), July 20--24, 2025
+
 1. **Performance estimation problems for convergence rate analysis of continuous-time models for optimization algorithms**<br>
    <u>K. Ushiyama</u>, S. Sato, T. Matsuo, Synergies of Machine Learning and Numerics,
    Osaka (Japan), March 11--13, 2025.
