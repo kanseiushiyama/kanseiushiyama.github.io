@@ -69,7 +69,7 @@ Numerical Stability and Discrete Chain Rule（連続最適化のための数値�
 # 解説
 
 1. **連続時間モデルを通した連続最適化手法の解析・導出**<br>
-   [[journal](https://doi.org/10.11499/sicejl.64.547)]<br>
+   [[e-book](https://www.sice.jp/e-journal/members/journal64-8/)][[journal](https://doi.org/10.11499/sicejl.64.547)]<br>
    牛山 寛生, 佐藤 峻, 計測と制御, **64**(2025), 547--553.
 
 # 講演
