@@ -66,6 +66,12 @@ Numerical Stability and Discrete Chain Rule（連続最適化のための数値�
    [[journal](https://doi.org/10.14495/jsiaml.14.29)]<br>
    K. Ushiyama, S. Sato, T. Matsuo, JSIAM Letters, **14**(2022), 29--32.
 
+# 解説
+
+1. **連続時間モデルを通した連続最適化手法の解析・導出**<br>
+   [[journal](https://doi.org/10.11499/sicejl.64.547)]<br>
+   牛山 寛生，佐藤 峻，計測と制御, **64**(2025), 547--553.
+
 # 講演
 
 1. **Adaptive first-order method for nonconvex optimization derived from vanishing damping continuous-time dynamics**<br>
