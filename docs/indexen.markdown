@@ -38,6 +38,10 @@ Nagano prefectural Nagano senior high school.
 
 # Preprints
 
+1. **A √2-accelerated FISTA for composite strongly convex problems**<br>
+   [[arXiv](https://arxiv.org/abs/2509.09295)]<br>
+   K. Ushiyama, preprint.
+
 1. **Deriving Optimal Rates of Continuous-time Accelerated First-order Methods via Performance Estimation Problems**<br>
    [[METR](https://www.keisu.t.u-tokyo.ac.jp/data/2024/METR24-02.pdf)]<br>
    K. Ushiyama, S. Sato, T. Matsuo, preprint.
