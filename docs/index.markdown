@@ -78,7 +78,7 @@ Numerical Stability and Discrete Chain Rule（連続最適化のための数値�
 
 # 講演
 
-1. (upcoming) **非凸最適化に対する微分可能な加速法**<br>
+1. (upcoming) **非凸最適化に対する微分可能な加速法** (poster)<br>
    <u>牛山 寛生</u>, 佐藤 峻, 第28回情報論的学習理論ワークショップ (IBIS2025), 沖縄, November 12--15, 2025.
 
 1. (upcoming) **微分可能かつ高速な非凸最適化アルゴリズム：微分方程式に基づく手法導出**<br>
