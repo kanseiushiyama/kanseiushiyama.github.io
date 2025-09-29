@@ -79,7 +79,7 @@ Numerical Stability and Discrete Chain Rule（連続最適化のための数値�
 # 講演
 
 1. (upcoming) **非凸最適化に対する微分可能な加速法**<br>
-   <u>牛山 寛生</u>, 佐藤 峻, 第28回情報論的学習理論ワークショップ, 沖縄, November 12--15, 2025.
+   <u>牛山 寛生</u>, 佐藤 峻, 第28回情報論的学習理論ワークショップ (IBIS2025), 沖縄, November 12--15, 2025.
 
 1. (upcoming) **微分可能かつ高速な非凸最適化アルゴリズム：微分方程式に基づく手法導出**<br>
    <u>牛山 寛生</u>, 佐藤 峻, RIMS共同研究 (公開型) 数値解析が切り開く新たな情報社会 〜データ駆動型から「富岳NEXT」〜, 京都, October 18--20, 2025.
@@ -109,7 +109,7 @@ Numerical Stability and Discrete Chain Rule（連続最適化のための数値�
    <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 日本応用数理学会 第20回研究部会連合発表会, 新潟, March 4–-6, 2024．
 
 1. **A Unified Discretization Framework for Differential Equation Approach with Lyapunov Arguments for Convex Optimization** (poster)<br>
-   <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 第26回情報論的学習理論ワークショップ, 福岡, October 29--November 1, 2023.
+   <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 第26回情報論的学習理論ワークショップ (IBIS2023), 福岡, October 29--November 1, 2023.
 
 1. **最適化のためのRunge--Kutta--Chebyshev法における曲線探索法**<br>
    <u>牛山 寛生</u>, 佐藤 峻, 松尾 宇泰, 数値解析シンポジウム 2023, 岩手, July 12--14, 2023.
