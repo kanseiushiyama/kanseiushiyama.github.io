@@ -56,7 +56,7 @@ Numerical Stability and Discrete Chain Rule（連続最適化のための数値�
 
 1. **Properties and practicability of convergence-guaranteed optimization methods derived from weak discrete gradients**<br>
    [[journal](https://doi.org/10.1007/s11075-024-01790-3)]<br>
-   K. Ushiyama, S. Sato, T. Matsuo, Numer. Algorithms, **96**(2024), 1331 --1362.
+   K. Ushiyama, S. Sato, T. Matsuo, Numer. Algorithms, **96**(2024), 1331--1362.
 
 1. **A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**<br>
    [[arXiv](https://doi.org/10.48550/arXiv.2302.07404)][[proceeding](https://openreview.net/forum?id=8YN62t19AW)]<br>
@@ -81,7 +81,7 @@ Numerical Stability and Discrete Chain Rule（連続最適化のための数値�
 1. (upcoming) **非凸最適化に対する微分可能な加速法** (poster)<br>
    <u>牛山 寛生</u>, 佐藤 峻, 第28回情報論的学習理論ワークショップ (IBIS2025), 沖縄, November 12--15, 2025.
 
-1. (upcoming) **微分可能かつ高速な非凸最適化アルゴリズム：微分方程式に基づく手法導出**<br>
+1. **微分可能かつ高速な非凸最適化アルゴリズム：微分方程式に基づく手法導出**<br>
    <u>牛山 寛生</u>, 佐藤 峻, RIMS共同研究 (公開型) 数値解析が切り開く新たな情報社会 〜データ駆動型から「富岳NEXT」〜, 京都, October 18--20, 2025.
 
 1. **Adaptive first-order method for nonconvex optimization derived from vanishing damping continuous-time dynamics**<br>
