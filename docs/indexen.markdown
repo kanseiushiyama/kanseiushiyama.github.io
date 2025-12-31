@@ -38,6 +38,10 @@ Nagano prefectural Nagano senior high school.
 
 # Preprints
 
+1. **Essential Convergence Rates of Continuous-Time Models for Optimization Methods**<br>
+   [[arXiv](https://doi.org/10.48550/arXiv.2512.23317)]<br>
+   K. Ushiyama, S. Sato, T. Matsuo, preprint.
+
 1. **A √2-accelerated FISTA for composite strongly convex problems**<br>
    [[arXiv](https://arxiv.org/abs/2509.09295)]<br>
    K. Ushiyama, preprint.
