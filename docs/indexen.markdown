@@ -101,6 +101,9 @@ Nagano prefectural Nagano senior high school.
 
 # Awards
 
+**Mar. 2026**<br>
+        Dean's award from Graduate School of Information Science and Technology, The University of Tokyo
+
 **Nov. 2025**<br>
   Best Student Presentation Award, The 28th Information-based Induction Sciences Workshop
 
@@ -123,6 +126,9 @@ Nagano prefectural Nagano senior high school.
         Best Presentation Award, Japan Society for Industrial and Applied Mathematics
 
 # Fellowships
+**Apr. 2026**<br>
+   JSPS Research Fellowship for Young Scientists, PD (accepted, later declined)
+
 **Apr. 2024 -- Mar. 2026**<br>
    JSPS Research Fellowship for Young Scientists, DC2
 
