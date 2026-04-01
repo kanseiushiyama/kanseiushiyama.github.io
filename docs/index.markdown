@@ -24,7 +24,7 @@ Email: ushiyama.k.1053 (at) m.isct.ac.jp
 **2026年3月**<br>
 博士（情報理工学）, 東京大学大学院 情報理工学系研究科 数理情報学専攻 博士課程 修了<br>
 （指導教員：松尾 宇泰 教授）<br>
-修士論文：Design and Analysis of
+博士論文：Design and Analysis of
 First-Order Optimization Methods
 via Continuous-Time Models（連続時間モデルに基づく一次最適化手法の設計と解析）<br>
 

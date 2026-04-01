@@ -9,12 +9,12 @@ title: Home
 ---
 # Kansei Ushiyama
 
-Ph.D. student,<br>
-[Mathematical Informatics 3rd Laboratory](http://www.sr3.t.u-tokyo.ac.jp/),<br>
-Department of Mathemathical Informatics,<br>
-Graduate School of Information Science and Technology,<br>
-The University of Tokyo<br>
-Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
+Assistant Professor,<br>
+Department of Mathematical and Computing Science,<br>
+School of Computing,<br>
+Institute of Science Tokyo (former Tokyo Institute of Technology),<br>
+2-12-1 Ookayama, Meguro-ku, Tokyo 152-8550 Japan
+Email: ushiyama.k.1053 (at) m.isct.ac.jp
 
 # Reserch Interests
 
@@ -23,13 +23,20 @@ Email: ushiyama-kansei074 (at) g.ecc.u-tokyo.ac.jp
 
 # Education
 
+**Mar. 2026**<br>
+Ph.D (Information Science and Technology), Graduate School of Information Science and Technology, The University of Tokyo.<br>
+(Supervisor: Prof. Takayasu Matsuo)<br>
+Dissertation: Design and Analysis of
+First-Order Optimization Methods
+via Continuous-Time Models
+
 **Mar. 2023**<br>
-Master of Information Science and Technology, The University of Tokyo<br>
+Master of Information Science and Technology, The University of Tokyo.<br>
 (Supervisor: Prof. Takayasu Matsuo)<br>
 Thesis: Exploiting Numerical Analytical Concepts for Continuous Optimization: Numerical Stability and Discrete Chain Rule
 
 **Mar. 2021**<br>
-Bachelor of Engineering, The University of Tokyo<br>
+Bachelor of Engineering, The University of Tokyo.<br>
 (Supervisor: Prof. Yuki Izumida)<br>
 Thesis: A Study on the Mechanism of Synchronization Promotion by Uncorrelated Noise in Coupled Oscillator Systems (in Japanese)
 
