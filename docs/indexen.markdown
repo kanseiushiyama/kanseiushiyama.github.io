@@ -13,7 +13,7 @@ Assistant Professor,<br>
 Department of Mathematical and Computing Science,<br>
 School of Computing,<br>
 Institute of Science Tokyo (former Tokyo Institute of Technology),<br>
-2-12-1 Ookayama, Meguro-ku, Tokyo 152-8550 Japan
+2-12-1 Ookayama, Meguro-ku, Tokyo 152-8550 Japan<br>
 Email: ushiyama.k.1053 (at) m.isct.ac.jp
 
 # Reserch Interests
