@@ -45,6 +45,10 @@ Nagano prefectural Nagano senior high school.
 
 # Preprints
 
+1. **A Restart-Free Accelerated Algorithm for Non-Convex Minimization: Continuous and Discrete Analysis**<br>
+   [[arXiv](https://doi.org/10.48550/arXiv.2606.30050){:target="_blank"}]<br>
+   K. Ushiyama, S. Sato, preprint.
+
 1. **Essential Convergence Rates of Continuous-Time Models for Optimization Methods**<br>
    [[arXiv](https://doi.org/10.48550/arXiv.2512.23317)]<br>
    K. Ushiyama, S. Sato, T. Matsuo, preprint.
