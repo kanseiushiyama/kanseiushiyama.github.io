@@ -44,6 +44,10 @@ Numerical Stability and Discrete Chain Rule（連続最適化のための数値�
 
 # プレプリント
 
+1. **Wasserstein accelerated proximal gradient algorithms**<br>
+   [[arXiv](https://doi.org/10.48550/arXiv.2611.03524){:target="_blank"}]<br>
+   K. Ushiyama, Y. Feng, K. Fujii, Y. Fujimoto, N. Isobe, preprint.
+
 1. **A Restart-Free Accelerated Algorithm for Non-Convex Minimization: Continuous and Discrete Analysis**<br>
    [[arXiv](https://doi.org/10.48550/arXiv.2606.30050){:target="_blank"}]<br>
    K. Ushiyama, S. Sato, preprint.
@@ -63,36 +67,42 @@ Numerical Stability and Discrete Chain Rule（連続最適化のための数値�
 # 査読付き論文誌・会議録
 
 1. **Differentiable Pareto-Smoothed Weighting for High-Dimensional Heterogeneous Treatment Effect Estimation**<br>
-   [[proceeding](https://openreview.net/forum?id=o85WSGg0oB)]<br>
+   [[proceeding](https://openreview.net/forum?id=o85WSGg0oB){:target="_blank"}]<br>
    Y. Chikahara, K. Ushiyama, UAI 2024.
 
 1. **Analysis of continuous dynamical system models with Hessians derived from optimization methods**<br>
-   [[journal](https://doi.org/10.14495/jsiaml.16.29)]<br>
+   [[journal](https://doi.org/10.14495/jsiaml.16.29){:target="_blank"}]<br>
    T. Kamijima, S. Sato, K. Ushiyama, T. Matsuo, K. Tanaka, JSIAM Letters, **16**(2024), 29--32.
 
 1. **Properties and practicability of convergence-guaranteed optimization methods derived from weak discrete gradients**<br>
-   [[journal](https://doi.org/10.1007/s11075-024-01790-3)]<br>
+   [[journal](https://doi.org/10.1007/s11075-024-01790-3){:target="_blank"}]<br>
    K. Ushiyama, S. Sato, T. Matsuo, Numer. Algorithms, **96**(2024), 1331--1362.
 
 1. **A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**<br>
-   [[arXiv](https://doi.org/10.48550/arXiv.2302.07404)][[proceeding](https://openreview.net/forum?id=8YN62t19AW)]<br>
+   [[arXiv](https://doi.org/10.48550/arXiv.2302.07404){:target="_blank"}][[proceeding](https://openreview.net/forum?id=8YN62t19AW){:target="_blank"}]<br>
    K. Ushiyama, S. Sato, T. Matsuo, NeurIPS 2023.
 
 1. **Essential convergence rate of ordinary differential equations appearing in optimization**<br>
-   [[arXiv](https://doi.org/10.48550/arXiv.2206.02599)][[journal](https://doi.org/10.14495/jsiaml.14.119)]<br>
+   [[arXiv](https://doi.org/10.48550/arXiv.2206.02599){:target="_blank"}][[journal](https://doi.org/10.14495/jsiaml.14.119){:target="_blank"}]<br>
    K. Ushiyama, S. Sato, T. Matsuo, JSIAM Letters, **14**(2022), 119--122.
 
 1. **Deriving efficient optimization methods based on stable explicit numerical methods**<br>
-   [[journal](https://doi.org/10.14495/jsiaml.14.29)]<br>
+   [[journal](https://doi.org/10.14495/jsiaml.14.29){:target="_blank"}]<br>
    K. Ushiyama, S. Sato, T. Matsuo, JSIAM Letters, **14**(2022), 29--32.
 
 # 解説
 
 1. **連続時間モデルを通した連続最適化手法の解析・導出**<br>
-   [[e-book](https://www.sice.jp/e-journal/members/journal64-8/)][[journal](https://doi.org/10.11499/sicejl.64.547)]<br>
+   [[e-book](https://www.sice.jp/e-journal/members/journal64-8/){:target="_blank"}][[journal](https://doi.org/10.11499/sicejl.64.547){:target="_blank"}]<br>
    牛山 寛生, 佐藤 峻, 計測と制御, **64**(2025), 547--553.
 
 # 講演
+
+1. **Wasserstein空間上の加速近接勾配法**<br>
+   <u>牛山 寛生</u>, Yi Feng, 藤井 海斗, 藤本 悠雅, 磯部 伸, 第29回情報論的学習理論ワークショップ (IBIS2026), 埼玉, October 26--29, 2026.
+
+1. **微分方程式に基づく連続最適化手法の設計と解析**<br>
+   <u>牛山 寛生</u>, 最適化のモデリングとアルゴリズム（MATCHA）第1回研究会, 東京, June 20, 2026.
 
 1. **非平滑正則化付き凸関数最小化に対する高速な近接勾配法**<br>
    <u>牛山 寛生</u>, 第2回：計算技術による学際的統計解析ワークショップ, 東京, February 16--17, 2026.

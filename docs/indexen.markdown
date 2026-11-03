@@ -45,46 +45,50 @@ Nagano prefectural Nagano senior high school.
 
 # Preprints
 
+1. **Wasserstein accelerated proximal gradient algorithms**<br>
+   [[arXiv](https://doi.org/10.48550/arXiv.2611.03524){:target="_blank"}]<br>
+   K. Ushiyama, Y. Feng, K. Fujii, Y. Fujimoto, N. Isobe, preprint.
+
 1. **A Restart-Free Accelerated Algorithm for Non-Convex Minimization: Continuous and Discrete Analysis**<br>
    [[arXiv](https://doi.org/10.48550/arXiv.2606.30050){:target="_blank"}]<br>
    K. Ushiyama, S. Sato, preprint.
 
 1. **Essential Convergence Rates of Continuous-Time Models for Optimization Methods**<br>
-   [[arXiv](https://doi.org/10.48550/arXiv.2512.23317)]<br>
+   [[arXiv](https://doi.org/10.48550/arXiv.2512.23317){:target="_blank"}]<br>
    K. Ushiyama, S. Sato, T. Matsuo, preprint.
 
 1. **A √2-accelerated FISTA for composite strongly convex problems**<br>
-   [[arXiv](https://arxiv.org/abs/2509.09295)]<br>
+   [[arXiv](https://arxiv.org/abs/2509.09295){:target="_blank"}]<br>
    K. Ushiyama, preprint.
 
 1. **Deriving Optimal Rates of Continuous-time Accelerated First-order Methods via Performance Estimation Problems**<br>
-   [[METR](https://www.keisu.t.u-tokyo.ac.jp/data/2024/METR24-02.pdf)]<br>
+   [[METR](https://www.keisu.t.u-tokyo.ac.jp/data/2024/METR24-02.pdf){:target="_blank"}]<br>
    K. Ushiyama, S. Sato, T. Matsuo, preprint.
 
 # Refereed Journal Articles and Conference Proceedings
 
 1. **Differentiable Pareto-Smoothed Weighting for High-Dimensional Heterogeneous Treatment Effect Estimation**<br>
-   [[proceeding](https://openreview.net/forum?id=o85WSGg0oB)]<br>
+   [[proceeding](https://openreview.net/forum?id=o85WSGg0oB){:target="_blank"}]<br>
    Y. Chikahara, K. Ushiyama, UAI 2024.
 
 1. **Analysis of continuous dynamical system models with Hessians derived from optimization methods**<br>
-   [[journal](https://doi.org/10.14495/jsiaml.16.29)]<br>
+   [[journal](https://doi.org/10.14495/jsiaml.16.29){:target="_blank"}]<br>
    T. Kamijima, S. Sato, K. Ushiyama, T. Matsuo, K. Tanaka, JSIAM Letters, **16**(2024), 29--32.
 
 1. **Properties and practicability of convergence-guaranteed optimization methods derived from weak discrete gradients**<br>
-   [[journal](https://doi.org/10.1007/s11075-024-01790-3)]<br>
+   [[journal](https://doi.org/10.1007/s11075-024-01790-3){:target="_blank"}]<br>
    K. Ushiyama, S. Sato, T. Matsuo, Numer. Algorithms, **96**(2024), 1331-–1362.
 
 1. **A unified discretization framework for differential equation approach with Lyapunov arguments for convex optimization**<br>
-   [[arXiv](https://doi.org/10.48550/arXiv.2302.07404)][[proceeding](https://openreview.net/forum?id=8YN62t19AW)]<br>
+   [[arXiv](https://doi.org/10.48550/arXiv.2302.07404){:target="_blank"}][[proceeding](https://openreview.net/forum?id=8YN62t19AW){:target="_blank"}]<br>
    K. Ushiyama, S. Sato, T. Matsuo, NeurIPS 2023.
 
 1. **Essential convergence rate of ordinary differential equations appearing in optimization**<br>
-   [[arXiv](https://doi.org/10.48550/arXiv.2206.02599)][[journal](https://doi.org/10.14495/jsiaml.14.119)]<br>
+   [[arXiv](https://doi.org/10.48550/arXiv.2206.02599){:target="_blank"}][[journal](https://doi.org/10.14495/jsiaml.14.119){:target="_blank"}]<br>
    K. Ushiyama, S. Sato, T. Matsuo, JSIAM Letters, **14**(2022), 119--122.<br>
 
 2. **Deriving efficient optimization methods based on stable explicit numerical methods**<br>
-   [[journal](https://doi.org/10.14495/jsiaml.14.29)]<br>
+   [[journal](https://doi.org/10.14495/jsiaml.14.29){:target="_blank"}]<br>
    K. Ushiyama, S. Sato, T. Matsuo, JSIAM Letters, **14**(2022), 29--32.
 
 # Talks (International)
