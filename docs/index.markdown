@@ -92,6 +92,10 @@ Numerical Stability and Discrete Chain Rule（連続最適化のための数値�
 
 # 解説
 
+1. **微分方程式を利用した連続最適化手法の開発**<br>
+   [[journal](https://orsj.org/?p=10139){:target="_blank"}]<br>
+   牛山 寛生, **71**(2026), 587--594.
+
 1. **連続時間モデルを通した連続最適化手法の解析・導出**<br>
    [[e-book](https://www.sice.jp/e-journal/members/journal64-8/){:target="_blank"}][[journal](https://doi.org/10.11499/sicejl.64.547){:target="_blank"}]<br>
    牛山 寛生, 佐藤 峻, 計測と制御, **64**(2025), 547--553.
